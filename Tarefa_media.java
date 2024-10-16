@@ -8,7 +8,7 @@ public class tarefaMod8 {
 	}
 
 	private static void calculandoMedia() {
-		System.out.println("=============== Calculando Média ==================");
+		System.out.println("============= Calculando Média ==================");
 		
 		int num1 = 34;
 		int num2 = 27;
