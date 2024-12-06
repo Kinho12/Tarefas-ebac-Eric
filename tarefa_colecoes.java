@@ -37,7 +37,7 @@ public class exemploOrdem {
 
 
 
-///////////Tarefa parte 2 -  separando por sexo
+///////////Tarefa parte 2 -  separando por sexo;
 package tarefaEbac11;
 
 import java.util.ArrayList;
