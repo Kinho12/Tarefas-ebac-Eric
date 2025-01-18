@@ -12,3 +12,4 @@ public class ContratosFactory extends Factory{
 	}
 
 }
+//contratos

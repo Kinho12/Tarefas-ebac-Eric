@@ -19,3 +19,4 @@ public class Costumer {
 		return gradeRequest;
 	}
 }
+//Costumer

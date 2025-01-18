@@ -16,3 +16,4 @@ public class SemContratosFactory extends Factory{
 	}
 
 }
+//semContratos
